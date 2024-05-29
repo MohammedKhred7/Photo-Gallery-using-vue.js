@@ -9,7 +9,7 @@
         <div class="flex items-center gap-3">
           <h2>3d background</h2>
         </div>
-        <h2 class="text-4xl md:text-5xl">Or Three dimensional  </h2>
+        <!-- <h2 class="text-4xl md:text-5xl">Or Three dimensional  </h2> -->
         <p class="pt-5 text-lg font-normal">In Computer Graphics and Animation , 3d background are created using specializtion softwire that allows artists to model and render three dimensional objects . and show the images for 3D   </p>
       </div>
       <div class="w-full h-full order-1 lg:order-2">

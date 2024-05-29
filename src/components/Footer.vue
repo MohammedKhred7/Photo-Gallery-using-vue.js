@@ -7,7 +7,7 @@
         </div>
         <p class="text-white leading-loose tracking-wide w-full md:w-[80%]">In Computer Graphics and Animation , 3d background are created using specializtion softwire that allows artists to model and render three dimensional objects . and show the images for 3D .</p>
         <div class="flex justify-end md:justify-start -mt-7 md:mt-3">
-          <img class="w-12 md:-translate-x-10 scale-x-[-1] md:scale-100" src="../assets/images/M.KHRED (2).png" alt="" style="width: 180px; height: 170px; margin-left: 40px;" >
+          <!-- <img class="w-12 md:-translate-x-10 scale-x-[-1] md:scale-100" src="../assets/images/M.KHRED (2).png" alt="" style="width: 180px; height: 170px; margin-left: 40px;" > -->
         </div>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-center gap-12 text-white">

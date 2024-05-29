@@ -37,7 +37,7 @@
   </section>
   <section class="grid grid-flow-col grid-cols-1 md:grid-cols-2 md:gap-10 items-center">
     <div class="md:p-10">
-      <img src="../assets/images/R.PNG" alt="category2-img">
+      <img src="../assets/images/R.png" alt="category2-img">
     </div>
     <div class="text-center flex flex-col items-center">
       <h2 class="text-5xl md:text-6xl font-bold text-white">What's that</h2>
